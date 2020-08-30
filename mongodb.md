@@ -1,4 +1,5 @@
 # Node + Express + MongoDB Atlas
+> MongoDB Atlas is cloud mongo db platform which give 512mb of free database storage and it is easy to manage.
 ## Steps {docsify-ignore}
 
 ###  Base Structure
